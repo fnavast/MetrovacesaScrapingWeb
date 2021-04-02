@@ -1,5 +1,9 @@
 # MetrovacesaScrappingWeb
 
+El código ha sido desarrollado por:
+* Francisco de Borja Navas Torres
+* Alvaro de la Fuente Díaz
+
 La funcionalidad del script es almacenar en un fichero csv las características de las viviendas de las diferentes promociones con las que cuenta el grupo inmobiliario Metrovacesa.
 
 Para ejecutar el script es necesario instalar las bibliotecas incluidas en el fichero requeriments.txt
