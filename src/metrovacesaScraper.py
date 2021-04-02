@@ -42,8 +42,33 @@ def save_data(df, filename):
 
 
 def main(url_dir):
-    # Comenzamos con la web de una promoción. Posteriormente habrá que abrir el espectro a las demás (y la forma de recuperarlas)
-    # str = "https://metrovacesa.com/promociones/alicante/alicante-alacant/edificio-adamar"
+    # Calculamos las urls necesarias para obtener la información objetivo
+    
+    # Declaramos la url principal y el array donde almacenaremos todos los links que necesitamos
+    str = "https://metrovacesa.com"
+    links = []
+
+    #Obtenemos el DOM de la url principal
+    page = requests.get(str)
+    soup = BeautifulSoup(page.content)
+
+    # Nos quedamos con el tag con id "provincias" que es donde se encuentran los links de cada provincia
+    provincias = soup.findAll(id="provincias")
+
+    # Dentro del tag buscamos el tag a que es donde tenemos los links
+    link = provincias[0].findAll("a")
+
+    #Recorremos cada web de provincia para recuperar los links de las promociones
+    for link in provincias[0].findAll("a"):
+
+        page = requests.get(link.get('href'))
+        pv = BeautifulSoup(page.content)
+        promociones = pv.findAll(id="cartas-promociones")
+        link = promociones[0].findAll("a")
+        for link in promociones[0].findAll("a"):
+            # Si el link de la promoción no está vacío lo insertamos en el array
+            if link.get('href') != '':
+                links.append(link.get('href'))
 
     # Inicialización del logger
     set_logger()
@@ -53,23 +78,11 @@ def main(url_dir):
     logging.info('Inicio del proceso datetime: ' + str(start_time.strftime('%Y-%m-%d %H:%M:%S')))
     logging.info('Extracción del dataset metrovacesa de la url ' + url_dir)
 
-    df_data = extract_data(url_dir)
-    save_data(df_data, 'metrovacesa_adamar')
-
-    # page = requests.get(url_dir)
-    # soup = BeautifulSoup(page.content)
-    # trs = soup.findAll('tr')
-    # contador = 0
-
-    # for tr in trs:
-    #     contador = contador+1
-    #     if contador == 2:
-    #         print(tr.descendants)
-    #         break
-
-    # print(trs)
-    # print(soup.prettify())
-    # print(soup.getText())
+    index = 0
+    for url_dir in links:
+        df_data = extract_data(url_dir)
+        save_data(df_data, 'metrovacesa_adamar')
+        index += 1
 
     end_time = datetime.now()
     logging.info('Fin del proceso datetime: ' + str(end_time.strftime('%Y-%m-%d %H:%M:%S')))
