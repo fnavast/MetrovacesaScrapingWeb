@@ -78,11 +78,9 @@ def main(url_dir):
     logging.info('Inicio del proceso datetime: ' + str(start_time.strftime('%Y-%m-%d %H:%M:%S')))
     logging.info('Extracción del dataset metrovacesa de la url ' + url_dir)
 
-    index = 0
-    for url_dir in links:
+     for url_dir in links:
         df_data = extract_data(url_dir)
         save_data(df_data, 'metrovacesa_adamar')
-        index += 1
 
     end_time = datetime.now()
     logging.info('Fin del proceso datetime: ' + str(end_time.strftime('%Y-%m-%d %H:%M:%S')))
