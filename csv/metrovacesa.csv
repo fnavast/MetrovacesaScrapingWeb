@@ -1,4 +1,71 @@
 provincia,localidad,promocion,viviendas,planta,dormitorios,banos,superficie,terraza,precio
+A Coruña,Santiago De Compostela,Cornes,Vivienda A,1,3,2,115.26,-,269.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda B,1,3,2,115.26,-,269.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda C,1,3,2,116.19,-,269.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda D,4,4,2,137.93,-,363.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda E,4,3,2,129.52,-,318.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda F,1,2,2,93.38,-,219.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda G,4,3,2,128.71,18.46,337.000
+A Coruña,Santiago De Compostela,Cornes,Vivienda H,4,4,3,176.45,-,439.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda A,1,3,2,93.3,4.6,354.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda B,1,1,1,53.95,-,171.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda C,1,3,2,88.95,-,338.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda D,2,1,1,53.95,-,174.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda E,2,3,2,88.95,-,341.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda F,6,4,2,105.1,38.55,423.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda G,1,2,2,78.9,4.9,271.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda H,2,3,2,88.95,-,323.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda I,5,3,2,85.6,-,312.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda J,6,4,2,130.9,32.3,529.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda K,2,2,2,72.15,-,232.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda L,2,1,1,53.65,6.25,177.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda M,4,2,2,93.5,17.1,274.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda N,0,Estudio,1,48.55,-,176.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda O,1,Estudio,1,43.05,4.8,139.000
+A Coruña,A Coruña Capital,Xardins da Gaiteira,Vivienda P,1,Estudio,1,44.25,5.3,144.000
+A Coruña,Santiago De Compostela,Residencial San Marcos,Vivienda A,0,3,2,139.2,19,250.000
+A Coruña,Santiago De Compostela,Residencial San Marcos,Vivienda B,0,3,2,140.15,19,266.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda A,0,4,2,140.15,-,277.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda B,0,4,2,139.2,-,261.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda C,0,4,2,139.2,-,261.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda D,0,4,2,139.2,-,261.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda E,0,4,2,140.15,-,275.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda F,0,4,2,140.15,-,277.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda G,0,4,2,139.2,-,261.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda H,0,4,2,139.2,-,261.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda I,0,4,2,140.15,-,274.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda J,0,4,2,140.15,-,273.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda K,0,4,2,139.2,-,256.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda L,0,4,2,139.2,-,256.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda M,0,4,2,139.2,-,256.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda N,0,4,2,140.15,-,270.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda O,0,4,2,140.15,-,273.000
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda P,0,4,2,139.2,-,256.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda Q,0,4,2,139.2,-,256.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda R,0,4,2,139.2,-,256.500
+A Coruña,Santiago De Compostela,Residencial San Marcos II,Vivienda S,0,4,2,140.15,-,271.000
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda A,1,1,1,60.6,-,137.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda B,1,3,1,105.7,-,216.000
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda C,2,2,1,80,-,174.400
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda D,2,3,1,102.3,-,220.700
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda E,2,2,1,85.9,-,193.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda F,2,3,1,98.6,-,213.500
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda G,2,1,1,67.7,-,161.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda H,2,2,1,88.1,-,197.800
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda I,2,2,1,84,-,174.100
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda J,2,2,1,84.1,-,174.300
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda K,2,3,1,105.6,-,216.800
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda L,2,3,1,103.3,-,212.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda M,9,3,1,99.4,-,266.800
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda N,9,3,1,113.57,37.9,344.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda O,9,1,1,65.04,47.7,242.200
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda P,9,4,1,130.22,103.3,432.500
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda Q,9,3,1,109.85,48.5,339.700
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda R,9,3,1,105.5,-,277.400
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda S,9,3,1,102.9,-,271.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda T,0,3,1,111.43,114.9,352.300
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda U,0,3,1,113.7,-,312.600
+A Coruña,A Coruña Capital,Edificio Parque Eiris,Vivienda V,0,4,1,165.36,104.6,465.000
 Alicante,Alicante/alacant,Adamar,Vivienda A,1,2,2,98.57,9.77,210.000
 Alicante,Alicante/alacant,Adamar,Vivienda B,1,4,2,131.73,11.86,275.000
 Alicante,Alicante/alacant,Adamar,Vivienda C,0,2,2,98.57,9.77,214.000
@@ -15,3 +82,607 @@ Alicante,Alicante/alacant,Adamar,Vivienda M,0,3,2,123.49,16.88,264.000
 Alicante,Alicante/alacant,Adamar,Vivienda N,1,3,2,125.87,16.83,259.000
 Alicante,Alicante/alacant,Adamar,Vivienda O,1,4,2,143.27,23.11,290.000
 Alicante,Alicante/alacant,Adamar,Vivienda P,0,3,2,125.87,16.83,263.000
+Almería,Pulpí,Birdie&Falcon,Vivienda A,0,1,2,71.87,34.7,86.000
+Almería,El Ejido,Residencial Aria,Vivienda A,1,2,2,87.92,17.06,210.000
+Almería,El Ejido,Residencial Aria,Vivienda B,1,2,2,87.92,17.06,210.000
+Almería,El Ejido,Residencial Aria,Vivienda C,0,2,2,86.2,18.36,218.000
+Almería,El Ejido,Residencial Aria,Vivienda D,1,2,2,83.17,21.39,234.000
+Almería,Almería Capital,Residencial Hera,Vivienda A,0,4,3,138.7,53.8,253.900
+Almería,Almería Capital,Residencial Hera,Vivienda B,0,5,3,186.1,50.1,291.900
+Almería,Almería Capital,Residencial Hera,Vivienda C,0,4,3,138.7,53.8,249.900
+Almería,Almería Capital,Residencial Hera,Vivienda D,0,5,3,185.9,99.6,271.900
+Almería,Almería Capital,Residencial Hera,Vivienda E,0,4,3,135.8,52.4,239.900
+Almería,Almería Capital,Residencial Hera,Vivienda F,0,4,3,138,53.5,239.900
+Almería,Almería Capital,Residencial Hera,Vivienda G,0,5,3,186.6,59.3,285.900
+Barcelona,Montornès Del Vallès,Momentum,Vivienda A,4,2,,105.42,21.22,216.500
+Barcelona,Montornès Del Vallès,Momentum,Vivienda B,1,3,,84.39,-,169.525
+Barcelona,Terrassa,Metropol Parc,Vivienda A,1,4,2,105.3,6.04,279.000
+Barcelona,Terrassa,Metropol Parc,Vivienda B,5,3,2,84.41,7.81,289.000
+Barcelona,Terrassa,Metropol Parc,Vivienda C,1,3,1,102.84,21.21,279.000
+Barcelona,Terrassa,Metropol Parc,Vivienda D,1,3,2,94.2,3.35,244.000
+Barcelona,Terrassa,Metropol Parc,Vivienda E,1,4,2,105.91,2.83,265.000
+Barcelona,Terrassa,Metropol Parc,Vivienda F,2,3,2,94.2,-,248.000
+Barcelona,Terrassa,Metropol Parc,Vivienda G,2,4,2,105.91,-,269.000
+Barcelona,Terrassa,Metropol Parc,Vivienda H,3,3,1,102.84,-,257.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda A,1,3,2,90.46,5.79,345.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda B,1,3,2,90.48,5.79,340.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda C,1,3,2,95.76,5.19,356.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda D,2,3,2,90.46,5.79,356.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda E,2,3,2,90.48,5.79,351.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda F,3,3,2,90.46,5.79,366.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda G,3,3,2,90.48,5.79,361.000
+Barcelona,Barcelona Capital,Llull 495,Vivienda H,6,3,2,97.8,13.66,460.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda A,2,3,2,103.42,-,219.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda B,2,3,2,112.12,-,254.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda C,2,3,2,112.12,-,253.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda D,2,3,2,103.42,-,217.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda E,3,3,2,103.42,-,222.222
+Barcelona,Manresa,Mirador de Montserrat,Vivienda F,3,3,2,112.12,-,258.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda G,3,3,2,112.12,-,257.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda H,3,3,2,103.42,-,221.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda I,4,3,2,103.42,-,230.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda J,4,3,2,112.12,-,265.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda K,4,3,2,112.12,-,264.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda L,4,3,2,103.42,-,229.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda M,1,3,2,94.83,-,235.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda N,1,3,2,113.09,-,291.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda O,1,3,2,113.09,-,269.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda P,1,3,2,103.4,-,199.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda Q,1,3,2,112.7,13.24,261.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda R,1,3,2,112.7,13.24,261.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda S,1,3,2,86.04,20.77,215.000
+Barcelona,Manresa,Mirador de Montserrat,Vivienda T,1,2,2,77.37,6.51,178.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda A,6,4,2,124.51,70.58,449.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda B,2,3,2,91.02,8.16,235.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda C,4,2,1,73.33,8.03,215.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda D,5,2,1,73.33,8.03,222.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda E,6,4,2,132.85,41.21,445.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda F,5,3,2,95.79,5.01,241.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda G,1,3,2,91.69,5.45,226.000
+Barcelona,Sabadell,Jardins de Can Gambús,Vivienda H,5,3,2,91.69,5.45,270.000
+Barcelona,Terrassa,Mirades,Vivienda A,2,3,2,87.34,-,185.000
+Barcelona,Terrassa,Mirades,Vivienda B,5,3,2,110.03,35.13,325.000
+Barcelona,Terrassa,Mirades,Vivienda C,1,3,2,89.43,-,200.000
+Barcelona,Terrassa,Mirades,Vivienda D,2,3,2,89.44,8.42,255.000
+Barcelona,Terrassa,Mirades,Vivienda E,4,3,2,89.44,8.42,270.000
+Barcelona,Terrassa,Mirades,Vivienda F,1,3,2,89.44,8.42,240.000
+Barcelona,Terrassa,Mirades,Vivienda G,0,2,1,66.32,11.48,205.000
+Barcelona,Terrassa,Mirades,Vivienda H,1,2,1,62.39,-,155.000
+Barcelona,Terrassa,Mirades,Vivienda I,3,3,2,84.46,-,220.000
+Barcelona,Terrassa,Illa Natura,Vivienda A,1,3,2,95.4,12.04,225.000
+Barcelona,Terrassa,Illa Natura,Vivienda B,3,4,2,120.5,28.86,299.000
+Barcelona,Terrassa,Illa Natura,Vivienda C,0,3,2,101.42,91.86,260.000
+Barcelona,Terrassa,Illa Natura,Vivienda D,4,4,2,100.46,11,260.000
+Barcelona,Terrassa,Illa Natura,Vivienda E,1,3,2,94.9,10,210.000
+Barcelona,Terrassa,Illa Natura,Vivienda F,2,4,2,105.6,-,215.000
+Barcelona,Terrassa,Illa Natura,Vivienda G,4,1,1,53.9,-,105.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda A,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda B,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda C,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda D,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda E,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda F,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda G,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda H,0,3,3,211.49,48.41,316.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda I,0,3,3,236.78,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda J,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda K,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda L,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda M,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda N,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda O,0,3,3,229.21,48.41,345.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda P,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda Q,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda R,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda S,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda T,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda U,0,3,3,229.36,48.41,345.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda V,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda W,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda X,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda Y,0,3,3,211.49,48.41,335.000
+Barcelona,Montornès Del Vallès,Momentum Village,Vivienda Z,0,3,3,211.49,48.41,335.000
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda A,2,3,2,88.67,15.26,259.000
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda B,1,3,2,99.06,16.06,277.500
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda C,1,4,2,115.42,21.92,320.500
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda D,2,3,2,99.06,16.06,277.500
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda E,2,4,2,115.42,21.92,325.500
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda F,1,4,2,106.52,18.7,308.500
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda G,1,3,2,94.55,17.87,289.000
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda H,2,4,2,106.52,18.7,305.000
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda I,3,4,2,106.52,18.7,313.000
+Barcelona,Mollet Del Vallès,Can Fàbregas,Vivienda J,3,3,2,94.55,17.87,302.000
+Barcelona,Barcelona Capital,Ramón Turró 272 – 280 HPO,Vivienda A,1,2,,71.63,-,189.850
+Barcelona,Barcelona Capital,Ramón Turró 272 – 280 HPO,Vivienda B,1,1,,46.7,12.31,106.160
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda A,1,3,2,85.9,7.06,465.000
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda B,1,2,2,73.53,-,375.000
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda C,2,1,1,48.42,9.95,300.000
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda D,2,2,2,73.53,-,385.000
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda E,3,2,2,73.53,-,395.000
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda F,5,2,2,63.25,9.95,445.000
+Barcelona,Barcelona Capital,Ramón Turro 294,Vivienda G,5,2,2,66.35,-,430.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda A,0,1,1,50.9,19.1,165.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda B,1,4,2,98.25,10.16,340.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda C,1,3,2,85.74,9.89,250.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda D,1,3,2,85.74,9.89,250.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda E,1,4,2,108.9,10.16,371.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda F,1,3,2,80.64,10.16,234.000
+Barcelona,Viladecans,Oliveretes Viladecans,Vivienda G,5,2,1,57.64,7.62,214.000
+Barcelona,Arenys De Mar,Brises del Maresme,Vivienda A,1,3,2,107.6,9.3,224.400
+Barcelona,Arenys De Mar,Brises del Maresme,Vivienda B,1,3,2,103.3,8.7,221.500
+Barcelona,Arenys De Mar,Brises del Maresme,Vivienda C,1,3,2,103.2,7.81,210.900
+Barcelona,Arenys De Mar,Brises del Maresme,Vivienda D,1,4,2,111.1,4.06,255.200
+Barcelona,Sabadell,Aire 9,Vivienda A,0,3,2,87.6,-,286.000
+Barcelona,Sabadell,Aire 9,Vivienda B,1,3,2,98.1,3.9,230.000
+Barcelona,Sabadell,Aire 9,Vivienda C,1,1,1,45.15,3.9,120.000
+Barcelona,Sabadell,Aire 9,Vivienda D,2,3,2,85.96,3.9,209.000
+Barcelona,Sabadell,Aire 9,Vivienda E,3,3,2,85.96,3.9,215.000
+Barcelona,Sabadell,Aire 9,Vivienda F,3,2,2,65.29,3.9,175.000
+Barcelona,Sabadell,Aire 9,Vivienda G,4,3,2,85.96,3.9,225.000
+Barcelona,Sabadell,Aire 9,Vivienda H,6,2,2,65.29,3.9,200.000
+Barcelona,Sabadell,Aire 9,Vivienda I,7,3,2,108.21,3.9,295.000
+Barcelona,Sabadell,Aire 9,Vivienda J,7,3,2,85.96,3.9,285.000
+Barcelona,Martorell,La Sinia Martorell,Vivienda A,2,3,2,85.9,9.59,214.000
+Barcelona,Martorell,La Sinia Martorell,Vivienda B,2,2,1,60.99,5.56,166.500
+Barcelona,Martorell,La Sinia Martorell,Vivienda C,1,1,1,48.06,-,116.000
+Barcelona,Martorell,La Sinia Martorell,Vivienda D,2,3,2,70.47,23.3,231.000
+Barcelona,Martorell,La Sinia Martorell,Vivienda E,2,1,1,50.35,-,124.000
+Barcelona,Martorell,La Sinia Martorell,Vivienda F,4,3,2,91.15,23.25,245.000
+Cádiz,Algeciras,Oasis,Unifamiliar adosado,,3-4,,110,,195.300
+Cádiz,Rota,Punta Terraces,Vivienda A,1,2,1,68.58,10.5,144.824
+Cádiz,Rota,Pier 1,Vivienda A,0,1,1,67.16,4.43,114.800
+Cádiz,Rota,Pier 1,Vivienda B,0,1,1,61.88,2.33,112.600
+Cádiz,Rota,Pier 1,Vivienda C,0,3,2,113.65,-,169.400
+Cádiz,Rota,Pier 1,Vivienda D,2,1,1,67.26,3.6,127.100
+Cádiz,Algeciras,Los Jarales,Unifamiliar adosado,,3,,92,,162.500
+Castellón,Benicasim/benicàssim,Residencial Las Dunas,Plurifamiliar,,Garaje,,habitaciones,,147.000
+Córdoba,Córdoba Capital,Mirador de la Albaida,Vivienda A,1,4,2,150.05,18.92,250.900
+Córdoba,Córdoba Capital,Mirador de la Albaida,Vivienda B,4,3,2,111.4,9.7,211.400
+Córdoba,Córdoba Capital,Las Terrazas de Poniente Sur,Vivienda A,2,3,,140.88,28.1,227.100
+Córdoba,Córdoba Capital,Las Terrazas de Poniente Sur,Vivienda B,1,3,,126.61,18.63,223.300
+Córdoba,Córdoba Capital,Las Terrazas de Poniente Sur,Vivienda C,2,3,,127.5,12.71,221.300
+Córdoba,Córdoba Capital,Las Terrazas de Poniente Sur,Vivienda D,1,3,,123.85,15.9,218.900
+Huelva,Huelva Capital,Atlantia,Vivienda A,1,3,2,112.66,7.95,189.000
+Huelva,Huelva Capital,Atlantia,Vivienda B,5,4,2,135.14,8.25,269.000
+Huelva,Huelva Capital,Atlantia,Vivienda C,7,4,2,135.14,8.25,297.000
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda A,0,1,1,53.36,8.47,215.000
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda B,0,2,2,86.56,12.46,305.000
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda C,0,2,2,76.03,9.98,280.000
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda D,2,4,2,112.5,15.88,419.000
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda E,3,4,2,135.86,19.77,481.500
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda F,3,3,2,111.32,16.83,410.000
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda G,3,3,2,99.42,16.69,386.500
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda H,3,4,2,104.07,15.23,399.500
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda I,4,3,2,99.42,16.69,394.500
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda J,5,3,2,107.21,15.4,420.500
+Illes Balears,Palma De Mallorca,Jardins de Llevant,Vivienda K,5,3,2,88.42,11.31,356.000
+Las Palmas,Las Palmas De Gran Canaria,Guayedra,Vivienda A,1,1,1,47.01,-,162.000
+Las Palmas,Las Palmas De Gran Canaria,Guayedra,Vivienda B,2,1,1,53.54,-,163.075
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda A,1,3,2,104.15,-,216.500
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda B,1,3,2,103.23,-,214.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda C,2,3,2,94.88,3.71,204.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda D,1,3,2,97.31,-,209.500
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda E,1,3,2,95.98,2.66,203.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda F,1,3,2,82.77,2.66,175.725
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda G,2,3,2,96.71,-,211.645
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda H,3,3,2,94.88,3.17,205.500
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda I,1,3,2,85.57,-,177.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda J,1,3,2,82.77,2.66,175.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda K,1,2,2,81.05,-,173.500
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda L,3,3,2,94.87,2.66,209.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda M,1,3,2,111.39,-,230.750
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda N,1,3,2,95.22,-,197.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda O,2,3,2,111.4,-,233.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda P,3,3,2,111.4,-,239.500
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda Q,2,2,2,69.6,2.66,163.775
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda R,4,2,2,70.24,-,169.450
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda S,1,3,2,83.41,2.66,184.400
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda T,1,2,2,81.44,-,184.200
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda U,2,4,2,125.54,-,265.500
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda V,2,3,2,95.04,3.54,206.350
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda W,2,2,2,81.61,-,189.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda X,2,3,2,107.34,-,245.650
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda Y,3,4,2,125.54,-,270.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda Z,3,3,2,95.04,2.66,209.350
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AA,1,3,2,83.41,-,186.725
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AB,2,3,2,94.88,3.54,206.350
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AC,3,3,2,94.72,3.71,209.050
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AD,4,3,2,94.72,3.71,212.050
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AE,1,3,2,101.87,-,226.300
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AF,1,3,2,104.15,-,226.575
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AG,2,4,2,115.39,3.16,277.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AH,2,3,2,101.34,-,236.000
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AI,2,3,2,94.88,3.71,208.050
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AJ,3,3,2,101.34,-,235.875
+Las Palmas,Las Palmas De Gran Canaria,Tamadaba,Vivienda AK,3,3,2,95.04,3.36,210.850
+Las Palmas,Arucas,Edificio Betancuria,Vivienda A,1,2,2,70.21,-,134.300
+Las Palmas,Arucas,Edificio Betancuria,Vivienda B,1,2,2,72.92,-,142.330
+Las Palmas,Arucas,Edificio Betancuria,Vivienda C,1,3,2,94.98,4.24,180.060
+Las Palmas,Arucas,Edificio Betancuria,Vivienda D,1,2,2,79.81,-,154.700
+Las Palmas,Arucas,Edificio Betancuria,Vivienda E,2,2,2,74.16,-,150.550
+Las Palmas,Arucas,Edificio Betancuria,Vivienda F,2,2,2,72.82,-,148.730
+Las Palmas,Arucas,Edificio Betancuria,Vivienda G,2,3,2,96.28,4.14,186.220
+Las Palmas,Arucas,Edificio Betancuria,Vivienda H,3,2,2,68.02,-,137.570
+Las Palmas,Arucas,Edificio Betancuria,Vivienda I,3,2,2,70.23,-,142.130
+Las Palmas,Arucas,Edificio Betancuria,Vivienda J,4,2,2,74.32,-,154.100
+Las Palmas,Arucas,Edificio Betancuria,Vivienda K,4,2,2,67.99,-,144.030
+Las Palmas,Arucas,Edificio Betancuria,Vivienda L,4,2,2,80.83,5.69,166.210
+Lleida,Lleida Capital,Imspira Fase I,Vivienda A,5,3,2,115.01,15.36,212.000
+Lleida,Lleida Capital,Imspira Fase II,Vivienda A,4,3,2,97.29,14.76,180.000
+Lleida,Lleida Capital,Imspira Fase II,Vivienda B,2,4,2,112.51,13.35,194.000
+Madrid,Collado Villalba,El Mirador de Guadarrama,Plurifamiliar,,1-3,,45,,0
+Madrid,Villaviciosa De Odón,Villas de la Vega,Unifamiliar pareado,,4,,294,,599.000
+Madrid,Madrid Capital,Jardines de Tetuán,Plurifamiliar,,1-3,,78,,217.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda A,1,3,2,116.16,-,750.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda B,0,2,2,85.44,-,554.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda C,0,2,2,81.59,-,548.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda D,0,3,2,128.34,7.82,763.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda E,1,3,2,120.13,7.36,796.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda F,1,1,1,60.2,6.56,357.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda G,0,2,2,83.9,-,510.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda H,1,3,2,115.03,-,693.000
+Madrid,Madrid Capital,Nieremberg 14,Vivienda I,3,1,1,37.43,23.23,395.000
+Málaga,Manilva,Majestic Heights,Vivienda A,0,3,2,144.55,24,268.000
+Málaga,Manilva,Majestic Heights,Vivienda B,0,4,2,219.6,66,326.500
+Málaga,Estepona,Serenity Views,Vivienda A,2,3,3,112.77,62.17,258.500
+Málaga,Estepona,Serenity Views,Vivienda B,2,2,2,101.15,85.03,244.900
+Málaga,Manilva,Sunrise Heights,Vivienda A,1,3,2,105.97,43.1,296.000
+Málaga,Manilva,Sunrise Heights,Vivienda B,2,2,2,87.45,61.9,292.000
+Málaga,Manilva,Sunrise Heights,Vivienda C,2,2,2,87.56,73.3,299.000
+Málaga,Manilva,Sunrise Heights,Vivienda D,0,3,2,115.1,43.1,309.000
+Málaga,Manilva,Sunrise Heights,Vivienda E,2,2,2,95.16,73.3,299.000
+Málaga,Málaga Capital,Citrea,Vivienda A,0,3,2,120.23,104.69,603.700
+Málaga,Málaga Capital,Citrea,Vivienda B,2,3,2,121.23,127.54,642.700
+Málaga,Málaga Capital,Citrea,Vivienda C,2,3,2,126.94,115.12,665.700
+Málaga,Marbella,Riva,Vivienda A,0,3,4,286.55,161.08,1.043.000
+Málaga,Marbella,Riva,Vivienda B,0,3,4,286.33,193.76,1.164.000
+Málaga,Benahavís,Aqualina,Vivienda A,1,3,2,148.66,31.5,658.000
+Málaga,Benahavís,Aqualina,Vivienda B,0,2,2,133.45,47.17,571.000
+Málaga,Benahavís,Aqualina,Vivienda C,1,2,2,133.45,43.53,470.000
+Málaga,Benahavís,Aqualina,Vivienda D,2,2,2,133.45,47.15,607.000
+Málaga,Benahavís,Aqualina,Vivienda E,2,2,2,133.45,47.15,575.000
+Málaga,Benahavís,Aqualina,Vivienda F,4,4,3,201.54,161.31,1.130.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda A,0,2,2,74.92,27.46,215.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda B,1,3,2,88.26,24.49,275.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda C,1,3,2,106,27.12,275.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda D,1,3,2,106,27.46,275.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda E,1,3,2,88.13,24.49,285.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda F,1,3,2,74.92,27.46,275.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda G,1,3,2,73.64,27.12,280.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda H,1,3,2,76.76,18.45,228.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda I,1,3,2,89.67,24.79,275.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda J,1,3,2,88.13,24.49,280.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda K,1,3,2,88.26,24.49,320.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda L,1,3,2,74.92,27.46,295.000
+Málaga,Estepona,Le Mirage Fase III,Vivienda M,2,2,2,106,27.46,295.000
+Málaga,Estepona,Le Mirage Fase IV,Vivienda A,0,4,,182.57,40.01,340.000
+Málaga,Estepona,Le Mirage Fase IV,Vivienda B,0,2,,166.37,22.97,260.000
+Málaga,Vélez-málaga,Naos 21,Vivienda A,0,3,2,114.75,51.01,253.000
+Málaga,Vélez-málaga,Naos 21,Vivienda B,0,3,2,113.72,52.03,264.000
+Málaga,Vélez-málaga,Naos 21,Vivienda C,0,3,2,115.93,76.19,259.500
+Málaga,Estepona,Oceana Views & Collection,Vivienda A,0,2,2,76.76,22.53,255.000
+Málaga,Estepona,Oceana Views & Collection,Vivienda B,2,2,2,73.64,65.88,365.000
+Málaga,Estepona,Oceana Views & Collection,Vivienda C,0,2,2,123.11,79.78,370.000
+Málaga,Estepona,Oceana Views & Collection,Vivienda D,0,3,2,146.33,62.71,415.000
+Málaga,Estepona,Oceana Views & Collection,Vivienda E,0,3,2,146.33,62.71,389.000
+Málaga,Estepona,Serenity Collection,Vivienda A,1,3,2,90.68,25.12,301.900
+Málaga,Estepona,Serenity Collection,Vivienda B,1,2,2,80.51,20.27,240.200
+Málaga,Estepona,Serenity Collection,Vivienda C,1,3,2,101.12,32.5,234.200
+Málaga,Estepona,Serenity Collection,Vivienda D,2,2,2,85.6,34.69,269.200
+Málaga,Torremolinos,Nereidas,Vivienda A,0,2,2,183.85,88.27,830.000
+Málaga,Torremolinos,Nereidas,Vivienda B,4,3,,167.18,247.09,1.235.000
+Málaga,Torremolinos,Nereidas,Vivienda C,4,3,,145.47,135.19,1.185.000
+Málaga,Torremolinos,Nereidas,Vivienda D,4,3,,175.37,330.08,1.255.000
+Málaga,Torremolinos,Alamar,Vivienda A,1,2,,104,19.3,315.000
+Málaga,Torremolinos,Alamar,Vivienda B,2,2,,79.5,24.5,290.000
+Málaga,Torremolinos,Alamar,Vivienda C,3,3,,133.1,23.9,465.000
+Málaga,Torremolinos,Alamar,Vivienda D,4,3,,150.6,60.4,589.000
+Málaga,Málaga Capital,Halia,Vivienda A,1,3,,141.21,17.3,551.000
+Málaga,Málaga Capital,Halia,Vivienda B,1,3,,142.97,59.98,673.000
+Málaga,Málaga Capital,Halia,Vivienda C,4,3,,141.21,17.3,615.000
+Málaga,Málaga Capital,Halia,Vivienda D,6,2,,118.24,39.79,667.000
+Málaga,Málaga Capital,Halia,Vivienda E,6,2,,122.22,74.34,758.000
+Málaga,Málaga Capital,Halia,Vivienda F,7,2,,113.86,63.64,723.000
+Málaga,Marbella,Dora Maar,Vivienda A,2,4,2,145.08,23.06,385.000
+Málaga,Marbella,Dora Maar,Vivienda B,1,3,2,106.14,8.48,273.000
+Málaga,Marbella,Dora Maar,Vivienda C,1,3,2,124.13,13.84,331.000
+Málaga,Marbella,Dora Maar,Vivienda D,2,2,2,96.83,15.42,267.000
+Málaga,Marbella,Dora Maar,Vivienda E,2,3,2,106.14,8.48,266.000
+Málaga,Marbella,Dora Maar,Vivienda F,2,3,2,110.81,16.64,285.000
+Málaga,Vélez-málaga,Meissa 28,Vivienda A,0,3,2,240.12,99.26,349.000
+Málaga,Vélez-málaga,Adhara,Vivienda A,0,3,2,98.64,48.85,273.900
+Málaga,Vélez-málaga,Adhara,Vivienda B,3,3,2,98.64,11.73,263.000
+Málaga,Vélez-málaga,Adhara,Vivienda C,0,3,2,100.86,48.85,298.900
+Málaga,Vélez-málaga,Adhara,Vivienda D,1,3,2,100.86,11.73,254.900
+Málaga,Vélez-málaga,Adhara,Vivienda E,1,4,3,115.99,11.73,302.900
+Málaga,Estepona,Serene Atalaya,Vivienda A,0,3,2,171.55,260.33,599.000
+Málaga,Estepona,Serene Atalaya,Vivienda B,0,3,2,118.72,174.45,429.000
+Málaga,Málaga Capital,Málaga Towers – Living,Vivienda A,15,4,3,209.34,61.37,1.618.000
+Málaga,Málaga Capital,Málaga Towers – Living,Vivienda B,17,4,4,267.27,98.92,2.213.000
+Málaga,Málaga Capital,Málaga Towers – Living,Vivienda C,19,4,4,377.36,98.94,3.453.000
+Málaga,Málaga Capital,Málaga Towers – Living,Vivienda D,8,3,3,191.39,39.23,923.000
+Málaga,Málaga Capital,Málaga Towers – Living,Vivienda E,12,3,3,191.39,53.19,1.058.000
+Málaga,Málaga Capital,Málaga Towers – Living,Vivienda F,16,3,4,302.44,169.09,2.366.000
+Málaga,Marbella,Venere Marbella,Vivienda A,0,2,2,123.58,29.87,514.500
+Málaga,Marbella,Venere Marbella,Vivienda B,0,2,2,142.01,155.34,745.000
+Málaga,Marbella,Venere Marbella,Vivienda C,0,3,3,173.25,178.95,920.000
+Málaga,Marbella,Venere Marbella,Vivienda D,0,2,2,123.58,29.87,430.000
+Málaga,Marbella,Venere Marbella,Vivienda E,0,2,2,123.58,29.87,430.000
+Málaga,Marbella,Venere Marbella,Vivienda F,0,3,3,151.12,45.75,570.000
+Málaga,Marbella,Venere Marbella,Vivienda G,0,3,3,173.25,178.95,875.000
+Málaga,Marbella,Venere Marbella,Vivienda H,0,2,2,142.01,155.34,695.000
+Málaga,Marbella,Venere Marbella,Vivienda I,0,3,3,151.12,45.75,560.000
+Málaga,Marbella,Venere Marbella,Vivienda J,0,2,2,123.58,51.67,430.000
+Málaga,Marbella,Venere Marbella,Vivienda K,0,2,2,123.58,29.87,430.000
+Málaga,Marbella,Venere Marbella,Vivienda L,0,3,3,151.12,45.75,570.000
+Málaga,Marbella,Venere Marbella,Vivienda M,0,3,3,173.25,178.95,885.000
+Málaga,Marbella,Venere Marbella,Vivienda N,0,2,2,142.01,155.34,685.000
+Málaga,Málaga Capital,Málaga Towers Vision,Plurifamiliar,,1-4,,132,,Próximamente
+Navarra,Pamplona/iruña,Edificio Luz Lezkairu,Vivienda A,1,3,2,135.12,15.4,282.000
+Navarra,Pamplona/iruña,Edificio Luz Lezkairu,Vivienda B,1,4,2,156.61,20.05,343.000
+Navarra,Pamplona/iruña,Altum Lezkairu,Vivienda A,1,4,2,180.54,31.4,412.500
+Navarra,Pamplona/iruña,Altum Lezkairu,Vivienda B,1,2,2,103.25,9.7,238.250
+Navarra,Pamplona/iruña,Altum Lezkairu,Vivienda C,7,2,2,103.25,9.7,269.500
+Navarra,Pamplona/iruña,Altum Lezkairu,Vivienda D,1,3,2,139.9,19.3,314.750
+Navarra,Pamplona/iruña,Altum Lezkairu,Vivienda E,1,3,2,144.44,23,332.000
+Navarra,Pamplona/iruña,Altum Lezkairu,Vivienda F,1,2,2,117.93,10.3,270.000
+Navarra,Pamplona/iruña,Atrio Lezkairu,Vivienda A,1,3,2,126.46,13.06,255.750
+Navarra,Pamplona/iruña,Atrio Lezkairu,Vivienda B,1,3,2,127.89,11.21,261.250
+Navarra,Pamplona/iruña,Atrio Lezkairu,Vivienda C,1,3,2,132.14,21.79,271.750
+Navarra,Pamplona/iruña,Atrio Lezkairu,Vivienda D,1,3,2,131.73,17.63,273.250
+Navarra,Pamplona/iruña,Atrio Lezkairu,Vivienda E,1,3,2,130.58,19.56,275.250
+Pontevedra,Pontevedra Capital,Novolérez,Vivienda A,1,3,2,158.4,43.6,309.400
+Pontevedra,Pontevedra Capital,Novolérez,Vivienda B,1,3,2,111.7,-,258.210
+Pontevedra,Pontevedra Capital,Novolérez,Vivienda C,0,4,2,188,17.2,454.000
+Pontevedra,Pontevedra Capital,Novolérez,Vivienda D,1,4,2,134.4,-,333.900
+Pontevedra,Pontevedra Capital,Novolérez,Vivienda E,1,2,2,89,-,221.375
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda A,1,1,1,51.89,7.67,103.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda B,1,2,1,80.89,13.43,153.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda C,1,2,2,81.85,11.51,155.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda D,1,Estudio,1,47.49,4.5,95.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda E,1,Estudio,1,51.55,4.5,99.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda F,1,Estudio,1,51.55,4.5,91.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda G,1,Estudio,1,46.46,4.5,89.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda H,5,1,1,51.89,7.67,111.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda I,7,1,1,61.67,47.97,166.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda J,7,2,1,87.42,52.08,219.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda K,7,2,1,87.56,34.34,214.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda L,7,2,1,85.02,32.14,196.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda M,1,1,1,53.89,8.42,106.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda N,1,2,2,81.4,8.78,157.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda O,1,1,1,55.06,8.56,118.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda P,1,2,2,81.85,11.51,159.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda Q,1,2,1,80.89,13.43,156.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda R,1,1,1,55.82,7.42,107.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda S,7,2,1,85.02,32.14,193.000
+Pontevedra,Pontevedra Capital,Residencial Novolérez II,Vivienda T,7,1,1,60.55,47.97,169.000
+Sevilla,San Juan De Aznalfarache,Pórtico de Simón Verde,Vivienda A,1,4,2,119.59,7.62,176.400
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda A,2,3,2,113.07,7.56,154.000
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda B,2,2,2,82.41,5.49,123.700
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda C,4,3,2,108.32,6.72,151.500
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda D,5,3,2,109.16,9.03,153.500
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda E,1,1,1,63.81,5.49,113.500
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda F,2,4,2,133.15,7.56,185.400
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda G,3,3,2,108.32,6.72,150.000
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda H,5,4,2,133.15,7.56,190.400
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda I,6,1,1,63.81,5.49,122.000
+Sevilla,Dos Hermanas,Residencial Hespérides II,Vivienda J,7,3,2,108.32,6.72,157.500
+Sevilla,Sevilla Capital,Residencial Mulhacen,Vivienda A,1,2,2,89.84,70.54,197.000
+Sevilla,Sevilla Capital,Residencial Mulhacen,Vivienda B,4,2,2,107.71,14.42,222.000
+Sevilla,Sevilla Capital,Residencial Mulhacen,Vivienda C,5,2,2,94.52,30.72,224.000
+Sevilla,Sevilla Capital,Residencial Mulhacen,Vivienda D,2,1,1,60.77,7.99,124.500
+Sevilla,Sevilla Capital,Residencial Mulhacen,Vivienda E,2,4,2,148,16.82,288.500
+Sevilla,Sevilla Capital,Residencial Mulhacen,Vivienda F,4,2,2,111.01,12.71,228.000
+Sevilla,Sevilla Capital,Villas del Volga,Vivienda A,0,4,3,175.57,25.2,356.100
+Sevilla,Sevilla Capital,Villas del Volga,Vivienda B,0,4,3,175.5,25.2,371.600
+Sevilla,Sevilla Capital,Villas del Volga,Vivienda C,0,4,3,171.43,24.4,361.100
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda A,3,2,1,89.12,11.52,191.500
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda B,1,2,2,95.55,14.88,182.000
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda C,1,4,2,143.86,21.58,270.000
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda D,2,2,2,85.69,-,181.500
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda E,0,3,2,124.17,50.73,262.500
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda F,2,3,2,126.39,17.12,254.500
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda G,3,3,2,126.29,17.09,255.500
+Sevilla,Sevilla Capital,Residencial Montblanc,Vivienda H,4,3,2,126.39,17.6,258.500
+Tarragona,Tarragona Capital,Torre dels Vents,Vivienda A,2,3,2,96.6,12,219.000
+Tarragona,Tarragona Capital,Torre dels Vents,Vivienda B,2,3,2,81.2,10,199.000
+Tarragona,Tarragona Capital,Torre dels Vents,Vivienda C,4,3,2,87.5,5.3,204.000
+Tarragona,Tarragona Capital,Torre dels Vents,Vivienda D,5,3,2,96.6,12,249.000
+Tarragona,Tarragona Capital,Torre dels Vents,Vivienda E,5,3,2,87.5,5.3,230.000
+Tenerife,Arona,Edificio Gara,Vivienda A,1,2,2,108.18,64.25,535.955
+Tenerife,Arona,Edificio Gara,Vivienda B,1,2,2,105.57,64.25,529.145
+Tenerife,Arona,Edificio Gara,Vivienda C,1,2,2,102.06,63.86,514.020
+Tenerife,Arona,Edificio Gara,Vivienda D,1,2,2,105.97,63.84,533.220
+Tenerife,Arona,Edificio Gara,Vivienda E,1,2,2,107.37,64.24,535.725
+Tenerife,Arona,Edificio Gara,Vivienda F,2,2,2,85.19,21.43,418.110
+Tenerife,Arona,Edificio Gara,Vivienda G,2,2,2,82.74,21.3,411.280
+Tenerife,Arona,Edificio Gara,Vivienda H,2,2,2,79.58,21.37,394.195
+Tenerife,Arona,Edificio Gara,Vivienda I,2,2,2,83.5,21.22,412.645
+Tenerife,Arona,Edificio Gara,Vivienda J,2,2,2,84.35,20.88,416.395
+Tenerife,Arico,Residencial Ancor,Vivienda A,0,2,2,82.85,33.4,205.715
+Tenerife,Arico,Residencial Ancor,Vivienda B,0,2,2,82.85,60.87,226.625
+Tenerife,Arico,Residencial Ancor,Vivienda C,0,2,2,82.85,61.1,226.755
+Tenerife,Arico,Residencial Ancor,Vivienda D,0,2,2,80.6,33.1,196.380
+Tenerife,Arico,Residencial Ancor,Vivienda E,0,2,2,82.85,53.17,227.205
+Tenerife,Arico,Residencial Ancor,Vivienda F,0,2,2,80.6,28.55,192.600
+Tenerife,Arico,Residencial Ancor,Vivienda G,0,2,2,80.6,28.55,192.660
+Tenerife,Arico,Residencial Ancor,Vivienda H,0,2,2,82.85,51.3,221.385
+Tenerife,Arico,Residencial Ancor,Vivienda I,1,2,2,72.85,6.6,163.965
+Tenerife,Arico,Residencial Ancor,Vivienda J,1,2,2,74.9,6.4,168.005
+Tenerife,Arico,Residencial Ancor,Vivienda K,0,2,2,80.6,15.4,186.350
+Tenerife,Arico,Residencial Ancor,Vivienda L,0,2,2,80.6,15.4,186.350
+Tenerife,Arico,Residencial Ancor,Vivienda M,0,2,2,82.85,71.4,223.300
+Tenerife,Arico,Residencial Ancor,Vivienda N,1,2,2,72.85,6.6,166.965
+Tenerife,Arico,Residencial Ancor,Vivienda O,1,2,2,74.9,6.4,171.005
+Tenerife,Arico,Residencial Ancor,Vivienda P,0,2,2,82.85,50.95,221.870
+Tenerife,Arico,Residencial Ancor,Vivienda Q,0,2,2,80.6,31.92,189.425
+Tenerife,Arico,Residencial Ancor,Vivienda R,0,2,2,80.6,31.92,189.425
+Tenerife,Arico,Residencial Ancor,Vivienda S,1,2,2,74.9,6.4,168.005
+Tenerife,Arico,Residencial Ancor,Vivienda T,1,2,2,72.85,6.6,163.965
+Tenerife,Arico,Residencial Ancor,Vivienda U,1,2,2,72.85,6.6,163.965
+Tenerife,Arico,Residencial Ancor,Vivienda V,0,2,2,85.5,67.02,226.560
+Tenerife,Arico,Residencial Ancor,Vivienda W,1,3,2,107.95,54.5,243.700
+Tenerife,Arico,Residencial Ancor,Vivienda X,1,3,2,107.95,54.5,243.700
+Tenerife,Arico,Residencial Ancor,Vivienda Y,1,3,2,107.95,54.5,243.700
+Tenerife,Arico,Residencial Ancor,Vivienda Z,1,3,2,107.95,54.5,243.700
+Valencia,Sagunto/sagunt,Ópera,Vivienda A,2,3,2,96.21,8.39,142.000
+Valencia,Sagunto/sagunt,Ópera,Vivienda B,3,3,2,94.41,6.63,143.000
+Valencia,Sagunto/sagunt,Ópera,Vivienda C,5,3,2,94.41,6.63,152.000
+Valencia,Sagunto/sagunt,Residencial Mozart,Vivienda A,0,4,2,153.11,94.74,241.000
+Valencia,Sagunto/sagunt,Residencial Mozart,Vivienda B,0,4,2,153.12,94.69,240.000
+Valencia,Valencia Capital,Amura,Vivienda A,2,3,2,132.52,8,231.000
+Valencia,Valencia Capital,Amura,Vivienda B,3,3,2,132.52,8,233.000
+Valencia,Valencia Capital,Amura,Vivienda C,4,3,2,132.52,8,234.000
+Valencia,Valencia Capital,Amura,Vivienda D,6,3,2,132.52,8,239.000
+Valencia,Valencia Capital,Amura,Vivienda E,7,3,2,132,8,242.000
+Valencia,Valencia Capital,Amura,Vivienda F,9,3,2,132,8,248.000
+Valencia,Valencia Capital,Amura,Vivienda G,1,3,2,122.61,12,198.000
+Valencia,Valencia Capital,Amura,Vivienda H,1,3,2,131.67,8,223.000
+Valencia,Valencia Capital,Amura,Vivienda I,2,3,2,131.67,8,225.000
+Valencia,Valencia Capital,Amura,Vivienda J,4,3,2,131.67,8,230.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda A,9,3,2,150.17,-,299.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda B,9,1,1,74.27,-,124.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda C,2,2,2,96.4,-,135.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda D,4,2,2,91.3,-,130.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda E,4,2,2,96.46,-,136.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda F,5,2,2,92,-,133.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda G,6,2,2,92,-,135.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda H,6,2,2,95.63,-,147.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda I,7,2,2,91.73,-,137.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda J,7,2,2,95.66,-,142.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda K,7,2,2,95.9,-,141.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda L,2,3,2,124.32,-,171.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda M,6,3,2,119.5,-,179.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda N,6,3,2,120.42,-,180.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda O,2,3,2,119.4,-,171.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda P,3,3,2,123.21,-,174.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda Q,3,3,2,121.26,-,173.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda R,5,3,2,123.3,-,176.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda S,5,3,2,123.99,-,177.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda T,1,3,2,123.41,-,167.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda U,2,3,2,123.56,-,170.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda V,3,3,2,121.13,-,167.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda W,4,3,2,122.51,-,171.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda X,5,3,2,123.32,-,173.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda Y,6,3,2,123.32,-,172.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda Z,7,3,2,124.87,-,178.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AA,1,3,2,124.7,-,168.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AB,1,3,2,119.39,-,165.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AC,2,3,2,121.96,-,166.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AD,2,3,2,123.57,-,170.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AE,3,3,2,124.03,-,169.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AF,3,3,2,120.04,-,171.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AG,4,3,2,121.79,-,168.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AH,4,3,2,119.95,-,172.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AI,5,3,2,123.44,-,174.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AJ,5,3,2,119.95,-,174.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AK,6,3,2,120,-,179.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AL,7,3,2,120.7,-,174.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AM,7,3,2,119.11,-,178.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AN,1,2,2,95.33,-,131.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AO,4,2,2,95.24,-,135.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AP,7,2,2,94.95,-,136.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AQ,1,2,2,102.3,-,142.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AR,1,3,2,122.69,-,172.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AS,1,3,2,123.79,-,167.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AT,1,3,2,122.72,-,170.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AU,2,2,2,102.3,-,144.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AV,2,3,2,122.69,-,174.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AW,2,3,2,123.79,-,169.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AX,2,3,2,122.72,-,172.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AY,3,2,2,102.3,-,145.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda AZ,3,3,2,122.69,-,175.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BA,3,3,2,123.79,-,170.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BB,4,2,2,102.3,-,146.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BC,4,3,2,122.69,-,176.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BD,4,3,2,123.79,-,171.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BE,5,2,2,102.3,-,148.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BF,6,2,2,102.3,-,150.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BG,6,3,2,122.69,-,179.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BH,6,3,2,122.72,-,178.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BI,7,3,2,122.69,-,181.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BJ,7,3,2,122.72,-,180.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BK,8,2,2,102.3,-,154.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BL,8,3,2,122.69,-,183.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BM,8,3,2,123.79,-,180.000
+Valencia,Quart De Poblet,Residencial Q,Vivienda BN,8,3,2,122.72,-,182.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda A,0,4,2,107.14,41.23,201.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda B,0,4,2,106.57,41.05,206.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda C,0,4,2,106.57,41.05,203.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda D,1,2,1,70.65,28.63,122.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda E,2,3,2,89.23,25.15,158.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda F,2,3,2,89.23,25.15,164.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda G,2,3,2,86.61,20.03,154.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda H,3,3,2,89.31,25.07,159.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda I,4,3,2,86.64,20.03,149.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda J,5,3,2,86.61,20.21,163.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda K,0,3,2,92.34,34.37,180.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda L,1,4,2,105.3,22.12,185.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda M,2,3,2,89.23,25.15,166.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda N,2,3,2,86.61,20.03,154.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda O,3,4,2,105.3,25.07,188.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda P,3,3,2,86.61,20.21,157.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda Q,4,3,2,86.61,20.03,160.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda R,5,3,2,86.61,20.21,163.000
+Valencia,Sagunto/sagunt,Residencial Aida F1,Vivienda S,5,2,1,70.65,20.21,139.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda A,0,4,2,106.57,41.05,204.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda B,1,4,2,105.3,33.49,192.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda C,1,3,2,89.31,33.49,170.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda D,1,3,2,86.61,28.63,149.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda E,1,2,1,70.65,28.63,127.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda F,2,3,2,89.23,25.15,165.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda G,2,3,2,89.23,25.15,158.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda H,2,3,2,86.61,20.03,148.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda I,2,3,2,86.64,20.03,158.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda J,3,3,2,86.61,20.21,154.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda K,3,2,1,70.65,20.21,133.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda L,4,3,2,89.23,25.15,171.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda M,4,3,2,86.61,20.03,152.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda N,4,3,2,86.64,20.03,164.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda O,5,3,2,86.61,20.21,160.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda P,5,2,1,70.65,20.21,139.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda Q,6,3,2,89.23,25.15,170.000
+Valencia,Sagunto/sagunt,Residencial AIDA F2,Vivienda R,6,3,2,86.61,20.03,156.000
+Valencia,Valencia Capital,Avante residencial,Vivienda A,5,2,2,96.5,4.6,198.000
+Valencia,Valencia Capital,Avante residencial,Vivienda B,4,3,2,129.6,9.4,254.000
+Valencia,Valencia Capital,Avante residencial,Vivienda C,4,3,2,129.6,9.4,254.000
+Valencia,Valencia Capital,Avante residencial,Vivienda D,6,3,2,129.6,9.4,260.000
+Valencia,Valencia Capital,Avante residencial,Vivienda E,3,3,2,123.3,5.4,241.000
+Valencia,Valencia Capital,Avante residencial,Vivienda F,5,3,2,123.3,5.4,247.000
+Valencia,Valencia Capital,Avante residencial,Vivienda G,3,3,2,123.3,5.4,241.000
+Valencia,Valencia Capital,Avante residencial,Vivienda H,5,3,2,123.3,5.4,247.000
+Valencia,Valencia Capital,Avante residencial,Vivienda I,4,4,2,140.3,10.8,275.000
+Valencia,Valencia Capital,Avante residencial,Vivienda J,11,4,2,164.1,21.2,400.000
+Valencia,Valencia Capital,Avante residencial,Vivienda K,11,4,2,162.9,21.2,400.000
+Valencia,Valencia Capital,Avante residencial,Vivienda L,11,4,2,147,43,400.000
+Valencia,Valencia Capital,Avante residencial,Vivienda M,11,4,2,147.5,43,400.000
+Valencia,Bétera,Birdie Residencial,Vivienda A,0,4,3,170.89,-,455.000
+Valencia,Bétera,Birdie Residencial,Vivienda B,0,4,3,172.27,-,470.000
+Valencia,Bétera,Birdie Residencial,Vivienda C,0,4,3,170.89,-,455.000
+Valencia,Bétera,Birdie Residencial,Vivienda D,0,4,3,170.89,-,455.000
+Valencia,Bétera,Birdie Residencial,Vivienda E,0,4,3,170.89,-,455.000
+Valencia,Bétera,Birdie Residencial,Vivienda F,0,4,3,161.4,-,435.000
+Valencia,Bétera,Birdie Residencial,Vivienda G,0,4,3,161.4,-,435.000
+Valencia,Bétera,Birdie Residencial,Vivienda H,0,4,3,161.4,-,435.000
+Valencia,Bétera,Birdie Residencial,Vivienda I,0,4,3,161.4,-,435.000
+Valencia,Bétera,Birdie Residencial,Vivienda J,0,4,3,159.64,-,435.000
+Valencia,Bétera,Birdie Residencial,Vivienda K,0,4,3,161.4,-,435.000
+Valencia,Bétera,Birdie Residencial,Vivienda L,0,4,3,172.27,-,470.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda A,0,4,2,153.11,22.92,242.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda B,0,4,2,153.11,22.92,242.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda C,0,4,2,153.11,22.92,241.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda D,0,4,2,153.12,22.86,240.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda E,0,4,2,153.12,22.86,239.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda F,0,4,2,153.11,22.92,239.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda G,0,4,2,153.11,22.92,239.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda H,0,4,2,153.11,22.92,239.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda I,0,4,2,153.11,22.92,239.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda J,0,4,2,153.11,22.92,239.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda K,0,5,2,176.64,25.88,251.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda L,0,5,2,176.64,25.88,251.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda M,0,5,2,176.63,26.01,251.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda N,0,4,2,153.11,22.92,242.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda O,0,4,2,153.11,22.92,241.000
+Valencia,Sagunto/sagunt,Residencial Beethoven,Vivienda P,0,6,3,196.55,20.59,259.000
+Valladolid,Valladolid Capital,Mirador de Jalón,Unifamiliar adosado,,4,,152,,239.000
+Valladolid,Aldeamayor De San Martín,Hacienda Cuatro,Unifamiliar adosado,,3,,140,,115.000
