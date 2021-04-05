@@ -14,8 +14,8 @@ def extract_data(url):
     logging.info('Extracción de los datos de la url ' + url)
 
     # Columnas del dataframe de extracción
-    column_names = ['provincia', 'localidad', 'promocion', 'viviendas', 'planta',
-                    'dormitorios', 'banos', 'superficie', 'terraza', 'precio']
+    column_names = ['provincia', 'localidad', 'promocion', 'viviendas', 'planta', 'dormitorios',
+                    'banos', 'superficie', 'terraza', 'precio', 'observacion']
     df = pd.DataFrame(columns=column_names)
 
     index = 0
@@ -33,43 +33,57 @@ def extract_data(url):
     try:
         # La promoción tiene varios tipos de viviendas
         table = soup.find('table')
-        for row in table.findAll('tr'):
-            # El primer elemento es la cabecera
-            if index != 0:
-                cells = row.findAll('td')
-                viviendas = cells[0].text.strip().replace('\n', '').replace('\t', '')
-                planta = cells[1].text.strip().replace('\n', '').replace('\t', '')
-                dormitorios = cells[2].text.strip().replace('\n', '').replace('\t', '')
-                banos = cells[3].text.strip().replace('\n', '').replace('\t', '')
-                superficie = cells[4].text.strip().replace('\n', '').replace('\t', '')
-                terraza = cells[5].text.strip().replace('\n', '').replace('\t', '')
-                precio = cells[7].text.strip().replace('\n', '').replace('\t', '')
+        if table is not None:
+            for row in table.findAll('tr'):
+                # El primer elemento es la cabecera
+                if index != 0:
+                    cells = row.findAll('td')
+                    viviendas = cells[0].text.strip().replace('\n', '').replace('\t', '')
+                    planta = cells[1].text.strip().replace('\n', '').replace('\t', '')
+                    dormitorios = cells[2].text.strip().replace('\n', '').replace('\t', '')
+                    banos = cells[3].text.strip().replace('\n', '').replace('\t', '')
+                    superficie = cells[4].text.strip().replace('\n', '').replace('\t', '')
+                    terraza = cells[5].text.strip().replace('\n', '').replace('\t', '')
+                    precio = cells[7].text.strip().replace('\n', '').replace('\t', '')
+                    observacion = ''
 
-                data = [provincia, localidad, promocion, viviendas, planta, dormitorios, banos, superficie, terraza, precio]
-                df.loc[index - 1] = data
-            index += 1
-    except:
-        try:
+                    data = [provincia, localidad, promocion, viviendas, planta, dormitorios, banos, superficie, terraza,
+                            precio, observacion]
+                    df.loc[index - 1] = data
+                index += 1
+        else:
             # La promoción no tiene varios tipos de viviendas
-            div_caracteristicas = soup.findAll('div', {'id': 'promo-container'})[0]\
-                .find('ul')\
-                .findAll('li')
-            viviendas = div_caracteristicas[0].text
-            dormitorios = div_caracteristicas[2].text.split(' ')[0]
-            superficie = div_caracteristicas[1].text.split(' ')[1]
-
-            precio = soup.findAll('div', {'id': 'promo-container'})[0].findAll('h1')[1].text\
-                .strip().replace('\n', '').replace('\t', '').replace('€', '')
-
+            # Iniciamos las variables a literal vacío
+            viviendas = ''
+            dormitorios = ''
+            superficie = ''
             planta = ''
             banos = ''
             terraza = ''
+            observacion = ''
 
-            data = [provincia, localidad, promocion, viviendas, planta, dormitorios, banos, superficie, terraza, precio]
+            # Extraemos el precio de la promoción
+            precio = soup.findAll('div', {'id': 'promo-container'})[0].findAll('h1')[1].text \
+                .strip().replace('\n', '').replace('\t', '').replace('€', '')
+            if precio == 'Próximamente':
+                precio = ''
+                observacion = 'Promoción disponible próximamente'
+            else:
+                div_caracteristicas = soup.findAll('div', {'id': 'promo-container'})[0]\
+                    .find('ul') \
+                    .findAll('li')
+                for element in div_caracteristicas:
+                    if 'm2' in element.text:
+                        superficie = element.text.split(' ')[1]
+                    elif 'habitaci' in element.text:
+                        dormitorios = element.text.split(' ')[0]
+                viviendas = div_caracteristicas[0].text
+
+            data = [provincia, localidad, promocion, viviendas, planta, dormitorios, banos, superficie, terraza,
+                    precio, observacion]
             df.loc[0] = data
-        except:
-            # TODO: revisar los casos que no se han podido mapear
-            logging.error('No se puede recuperar la información de la url ' + str(url))
+    except:
+        logging.error('No se puede recuperar la información de la url ' + str(url))
 
     return df
 
@@ -115,6 +129,8 @@ def main(url_dir):
         # LLamada el metodo de extracción de la información
         df_data = extract_data(url_dir)
         df_final = pd.concat([df_final, df_data])
+        # Añadimos la fecha de la extracción
+        df_final['fecha_extraccion'] = start_time.strftime('%Y-%m-%d')
     save_data(df_final, 'metrovacesa')
 
     # Fin del proceso
