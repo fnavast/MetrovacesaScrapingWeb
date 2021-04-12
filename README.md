@@ -8,7 +8,7 @@ El código ha sido desarrollado por:
 ## Descripción de los ficheros
 En el repositorio están almecenados los siguientes ficheros:
 * **csv/metrovacesa.csv**: dataset generado a través del proceso.
-* **pdf/metrovacesa.pdf**: fichero que contiene tanto la descripción del proceso de web scraping como la  información referente al dataset generado.
+* **pdf/M2.851_20202_Práctica1_adelafuentedi_fnavast.pdf**: fichero que contiene tanto la descripción del proceso de web scraping como la  información referente al dataset generado.
 * **src/metrovacesaScraper.py**: código fuente encargado de realizar el proceso de web scraping.
 * **test/test_metrovacesaScraper.py**: fichero de código utilizado durante la codificación del código fuente para realizar test en local.
 * **README.md**: wiki del repositorio git.
